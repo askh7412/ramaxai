@@ -1,0 +1,6 @@
+{
+  "name": "راماکس — RAMAX",
+  "description": "پلتفرم فارسی هوش مصنوعی، پشتیبانی آنلاین، ویجت چت فروشگاهی، قراردادها و اتوماسیون هوشمند برای سایت‌ها و فروشگاه‌های اینترنتی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
